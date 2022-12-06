@@ -1,8 +1,0 @@
--This project is about Boutique Management System in which all categories of users are handled.
--To compile this project, include all files in main and run the project.
--A welcome screen will appear.
--Click on the user type (ADMIN OR CUSTOMER).
--Enter a valid login ID and Password to login to your account.
--Now you can access all the features of this Management System.
-
-**we have also posted a video of compilation along with the code**
